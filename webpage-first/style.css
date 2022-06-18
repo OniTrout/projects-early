@@ -1,0 +1,24 @@
+.intro {
+    text-align: center;
+    background-color: lightblue;
+    margin: -10px;
+    margin-bottom: 0px;
+    
+}
+
+.banner-side {
+    text-align: left;
+    width: 100%;
+    border: 10px solid lightgreen;
+    margin-left: -10px;
+    max-width: fit-content;
+    background-color: lightgrey;
+}
+
+.links-left {
+    background-color: lightgrey;
+    text-align: left;
+    width: 60px;
+    margin: 10px;
+    margin-left: 0px;
+}
