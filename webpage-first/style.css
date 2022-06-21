@@ -6,6 +6,7 @@
     
 }
 
+
 .banner-side {
     text-align: left;
     width: 100%;
@@ -21,4 +22,15 @@
     width: 60px;
     margin: 10px;
     margin-left: 0px;
+}
+
+#p-one {
+    border: 5px solid lightseagreen;
+    margin: 20px;
+    text-align: center;
+}
+
+.button {
+    display: block;
+    margin: 0 auto;
 }
