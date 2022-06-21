@@ -28,9 +28,24 @@
     border: 5px solid lightseagreen;
     margin: 20px;
     text-align: center;
+    margin: 10px 20px;
+    /* This selects top and bottom margin with ten and the left and right margin with 20. */
+    
 }
 
 .button {
     display: block;
     margin: 0 auto;
+}
+
+.flex-container {
+    display: flex;
+}
+
+.flex-container div {
+    background-color: peachpuff;
+    border: 5px solid aqua;
+    height: 100px;
+    flex: 1;
+    /* Flex 1 makes all the flex items grow an equal amount */
 }
